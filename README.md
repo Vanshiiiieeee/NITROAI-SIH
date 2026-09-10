@@ -215,9 +215,9 @@ Theme: **Blockchain & Cybersecurity**
 
 - [x] Source Code (this repository)
 - [x] Working Prototype — `http://localhost:3000`
-- [ ] Architecture Document (2 pages) — *coming soon*
-- [ ] Demo Video (2 minutes) — *coming soon*
-- [ ] Technical Presentation (5 slides) — *coming soon*
+- [ ] Architecture Document (2 pages) — nciipc.gov.in
+- [ ] Demo Video (2 minutes) — https://youtu.be/PtpZAHOmlXg
+- [ ] Technical Presentation (5 slides) — SUBMITTED
 - [ ] README with Setup Instructions — **you are here**
 
 ---
